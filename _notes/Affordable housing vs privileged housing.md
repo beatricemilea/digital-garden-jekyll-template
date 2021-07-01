@@ -1,1 +1,4 @@
+---
+---
+
 [[Dwelling as a complex issue and its relation to the city|The affordable housing issue]] that has appeared in the 19th century led to a big discrepancy between affordable and privileged housing. Privileged housing always made the history of architecture's object of study and included all the big architectural edifices with traits of historical monument. They embodied the fashion of the time and the architectural styles of each period, and they were comissioned by rich and noble people. In contrast, the affordable housing was never paid attention to in history, and it was merely copying the styles of the privileged villas, palazzos or resorts. It appeared spontaneously, was mostly vernacular, and was inhabited by the regular citizens from the city that couldn't afford more expensive houses.
