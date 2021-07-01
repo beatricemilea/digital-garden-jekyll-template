@@ -1,0 +1,4 @@
+---
+---
+
+Frankfurt was the city that made the object of many experiments, especially for [[The progressist ideological model|progressist]] ones conducted by Ernst May. It was a German [[Siedlung, the German experimental district|Siedlung]] hosting small and compact collective houses that were associated with one another and shared common amenities. May used prefabrication and typization as a rule for the construction of the houses and he provided equal and unobstructed access to natural light, air and public spaces. His focus was mainly on urban aesthetics, just like the typical [[Ebenezer Howard's Garden City Movement|garden-city]]

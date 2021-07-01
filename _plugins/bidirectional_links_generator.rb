@@ -26,14 +26,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]
         current_note.content.gsub!(
-          /\[\[#{title_from_filename}\|(.+?)(?=\])\]\]/i,
+          /\[\[#{title_from_filename}\|\s*(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 
         # Replace double-bracketed links with label using note filename
         # [[cats|this is a link to the note about cats]]
         current_note.content.gsub!(
-          /\[\[#{note_potentially_linked_to.data['title']}\|(.+?)(?=\])\]\]/i,
+          /\[\[#{note_potentially_linked_to.data['title']}\|\s*(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 

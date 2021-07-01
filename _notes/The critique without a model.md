@@ -1,0 +1,4 @@
+---
+---
+
+The critique without a model was one of the [[Four ideological models had to solve the housing issue|four]] ideological models that were aiming to solve the [[Affordable housing vs privileged housing|affordable housing]] [[Dwelling as a complex issue and its relation to the city|issue]]. It supported the exploitation of the man by the man and the city as a place for history. This was supported by [[Socialism and the emphasis on the collective|extreme socialists]] like Karl Marx and Friedrich Engels and it aimed to erase the difference between city and village by the confiscation and redistribution of the residences. This all happened because of the fight between the social classes and the need for them to all become equal.

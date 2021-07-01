@@ -1,0 +1,4 @@
+---
+---
+
+The naturalist [[Four ideological models had to solve the housing issue|ideological model]] criticized the city as opposed to [[Removing the houses, improving the landscape|nature]], its representatives calling themselves American antiurbanists. They were nostalgic about pioneering on different and brand new territories, and they supported the restoration of the rural state for all cities, all surrounded by wild nature. This was another model that aimed to solve the complex [[Dwelling as a complex issue and its relation to the city|issue]] of [[Affordable housing vs privileged housing|affordable housing]], having mixed ideas from both [[The progressist ideological model|progressists]] and [[The culturalist ideological model|culturalists]]. The most well-known representative personality for this movement was Frank Lloyd Wright.

@@ -1,0 +1,6 @@
+---
+---
+
+In his writing, 'Towards A Plastic Architecture', Theo van Doesburg expressed very well the aims of his and the [[Manifesto of De Stijl, the balance between individual and universal|De Stijl]]'s movement artists and architects. Inspired by [[Piet Mondrian's Neoplasticist Manifesto]], van Doesburg was able to formulate different principles that defined the De Stijl movement. Some of them, the most important ones, were the use of completely fresh forms, to reduce the architecture to its most basic [[Elements of architecture and elements of composition|elements]], to use space, light, color and material in a very economical and functional way and to employ a formless yet very determinate relationship of the opposites (open vs closed). As well as that, the Neoplasticists strived for open plans and the [[Unity as expressed in Frank Lloyd Wright's works|fusion between interior and exterior spaces]], in order for the buildings to have a floating aspect. They were against symmetry and repetition and wanted to destabilize the idea of front, back, right, left,above, below, making them all equal in value. They prized color very much, making use of the primary colors, red, blue and yellow, and they were [[Ornament is Crime|anti-decorative]], seeing architecture as a harmonic whole.
+
+Resource: _Towards A Plastic Architecture_ by Theo van Doesburg

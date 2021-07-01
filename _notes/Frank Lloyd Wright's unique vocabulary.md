@@ -1,0 +1,4 @@
+---
+---
+
+Frank Lloyd Wright was a 20th century architect that worked in [[Form ever follows function and that is the law|Louis Sullivan's]] office and was inspired by his ideas of (re)inventing the new traditional American style. Therefore, he founded the style known as [[The Prairie School, the traditional modern American style|The Prairie School ]] that was adopted by many American architects from that age. His houses were generally built with dramatic horizontal lines, light filled interiors and open plans, creating a harmony between [[Removing the houses, improving the landscape|architecture and nature]]. All these principles translated into the motif of [[Unity as expressed in Frank Lloyd Wright's works|unity]], on every scale of the building (from structure to furnishings and detailing).

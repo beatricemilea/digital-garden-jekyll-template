@@ -1,0 +1,6 @@
+---
+---
+
+The destruction of the box was one of the architectural principles with which Wright revolutionized the way buildings were made in the first part of the 20th century. He destabilized the strong distinction that Julian Guadet made between [[Elements of architecture and elements of composition|elements of architecture and elements of composition]], combining the two of them into a unique vocabulary that was based on unity. The destruction of the box meant that he overlapped spaces, dissolving one edge of the room and creating a spatial fluidity. The transition between two such spaces was made seamlessly, even if they were interior or exterior spaces, since the visual communication with the [[Removing the houses, improving the landscape|surroundings]] was a key part of Wright's design.
+
+Resource: https://www.researchgate.net/figure/The-destruction-of-the-box-The-architectural-freedom-of-expansion-compared-with-the_fig13_282854099

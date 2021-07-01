@@ -1,0 +1,6 @@
+---
+---
+
+Adolf Loos was an architect of the 20th century whose most famous writing, 'Ornament is Crime', guided his works of architecture and interior design in the future. He criticized the idea of ornament as an unnecessary element that did not bring pleasure to life and that stood in the way of making buildings more accesible to all people. However, he admired the craftsmen and artisans for their work and considered that they could not be paid enough for their tedious labour, thus the solution for that was the absence of any ornament whatsoever. This way, according to Loos, no material and capital would be wasted. In this manner, he had similarities with [[Unity as expressed in Frank Lloyd Wright's works|Frank Lloyd Wright]] to a certain extent, since both created a new kind of [[Modernity. Modernisation. Modernism.|modern]] architecture based on the complexity and fluidity of the spaces rather than on the over-adorned examples of the past.
+
+Resource: _Ornament is Crime_ by Adolf Loos

@@ -1,0 +1,4 @@
+---
+---
+
+Dwelling is a complex issue that became more prevalent in the 19th century, when architects had to find solutions to [[Affordable housing vs privileged housing|affordable housing]] in the cities, since the cities became [[Liberal cities were the urban evil|urban evils]]. The issue started because of the [[The mutations of the 19th century|mutations]] that completely changed the image of the city and the ways in which people used to live. The way people relate to [[Habitation as a way of being in the world| habitation]] can play a huge role in an [[Community and the traits that define its lifestyle|immediate neighbourhood ]], that is an integrant part of the city and does the transition between a home and the entire city.

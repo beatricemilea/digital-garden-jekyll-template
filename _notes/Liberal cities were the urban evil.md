@@ -1,0 +1,4 @@
+---
+---
+
+Liberal cities in the 19th century were the cities that resulted after the [[The mutations of the 19th century|mutations of the 19th century]]. They were regarded as the urban evil because of the fact that they were ugly, non-hygienic, they had a big criminality rate, they were dirty, crowded, they had no edilitary systems, they had noise and smell pollution and overall they were dominated by chaos. There were, however, some entities that were aiming to find solutions to all those problems, these being either the public interest in order to help the poor and transform them into voters, people who believed in the worker's value on the market of production, humanitary and religious entities and other key entities from the city.

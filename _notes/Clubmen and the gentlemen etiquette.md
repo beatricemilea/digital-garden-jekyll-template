@@ -1,0 +1,4 @@
+---
+---
+
+In [[Augustan Age in Victorian England|Victorian England]], gentlemen used to gather to different clubs, which were a latter development of the former [[The tradition of coffee houses|coffee houses]] that used to be popular in England back then. The clubs were essentially places in which clubmen gathered in order to share ideas. In order to be considered eligibile to participate to this activity, one was supposed to be of a higher rank in society, but not only that. Gentlemanliness was a quality of the mind and of the heart; they had to have a certain etiquette of both countenance and speaking, as well as to be well-mannered and kind-hearted. No matter if part of the middle-class or of the aristocracy, anyone could be considered a clubman if he possesed these qualities as well as a will to share knowledge with other such gentlemen.

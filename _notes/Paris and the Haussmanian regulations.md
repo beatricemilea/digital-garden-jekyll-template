@@ -1,0 +1,6 @@
+---
+---
+
+The 19th century Paris was embodying exactly the [[Liberal cities were the urban evil|liberal city]] everyone was complaining about. Therefore, Georges-Eugene Haussman, the prefect of the city back then, introduced some regulations for the city based on some new laws: the law of expropriation and the law of hygiene. These regulations were aimed to demolish the medieval neighbourhoods that were overcrowded and unhealthy; to build wide avenues, lining rapport buildings to the new streets; to build new parks and squares; to favor the annexation of the suburbs surrounding Paris; and to construct new sewers, fountains and aqueducts. The rapport buildings were buildings destined to be rented and they showed exactly how the upper to middle classes were divided and used to live together. They were very rigid, their facade being regulated and they had no room of individuality, therefore they were simply endlessly [[The essence of an architectural object lies in its repeatability|repeated]]. They occupied the plot intensively and were associated on three sides, having light courts that provided ventilation and lighting to the interior spaces.
+
+Resource: https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris

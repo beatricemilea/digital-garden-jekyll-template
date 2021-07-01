@@ -1,0 +1,4 @@
+---
+---
+
+The French version of the [[Ebenezer Howard's Garden City Movement|garden-cities]] was developed by the French theorist Georges Benoit-Levy and the [[Socialism and the emphasis on the collective|socialist]] deputee Henri Sellier. They built residential complexes that would assure the decongestion of Paris and of its outskirts, as well as have a maximum level of confort and hygiene. The [[The progressist ideological model|progressist]] model, however, believes another one to be the right approach to Paris' decongestion, this being the tall collective blocks of flats located in a vegetation mass. One example of such endeavor was Plessis-Robinson, which embodied the free and fluid space in a [[Modernity. Modernisation. Modernism.|modernist]] skin. All these French endeavors can be regarded as a hybrid model between [[The culturalist ideological model|culturalism]] and progressism.

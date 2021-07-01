@@ -1,0 +1,4 @@
+---
+---
+
+Art Nouveau was an artistic style and movement that emerged in the late 19th century as a wish to negate the paradigms of traditional art of the century, eclecticism and historicism. Art Nouveau followed the [[Arts & Crafts, where the artist and the artisan work together  | Arts & Crafts movement]] and William Morris's ideals, wanting to connect the artist and the artisan in order to combine structural logic with the beauty of expression. Its aim was to create a [[Gesamtkunstwerk is the complete work of art| Gesamtkunstwerk]] through the use of sinuous, curvaceous, free lines, ornaments inspired from nature and geometric stilised forms. Art Nouveau also took inspiration from oriental art, especially from the [[Japanese inspiration in modern movements of the early 20th century | Japanese culture]].

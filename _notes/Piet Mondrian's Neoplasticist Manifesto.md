@@ -1,0 +1,4 @@
+---
+---
+
+Piet Mondrian was a famous painter of the Dutch avant-garde who wrote a manifesto regardin the new artistic plastic and composition. This manifesto is closely related to Theo van Doesburg's magazine 'De Stijl', which gave the name to the emerging [[Modernity. Modernisation. Modernism.|modern]] movement. Mondrian stated that the new style was about abstractization and depersonalization (as opposed to individualization), the search for an universal truth, and the reduction to the most elementary of shapes and forms, the most pure means of expressions, the line, dot and surface, together with the use of the basic colors. Their aesthetic was machine-like, and they reinterpreted the architectural elements in a novel way ([[Elements of architecture and elements of composition|Julien Guadet's theory]]).

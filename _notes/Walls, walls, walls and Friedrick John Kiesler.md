@@ -1,0 +1,4 @@
+---
+---
+
+'Walls, walls, walls' was a quote from Friedrick John Kiesler, an important personality of the [[Manifesto of De Stijl, the balance between individual and universal|De Stijl movement]], writing in which he was accusing the spaces enclosed by rigid walls and wanted to [[The destruction of the box and Frank Lloyd Wright|destroy the boxes]] and let the soul be free and have no boundaries. He wanted the trasnformation of global space into cities without walls and foundations, transforming everything into a fluid entity. He strived for a system of unprecedented tension in the open space and new possibilities of living emerging from his theory, possibilities that could transform the society. The society started having new and different needs, and only by finding responses to these needs could architects and artists back then produce [[An artist has to take a radical position to produce modern art|modern]] and functional artifacts.

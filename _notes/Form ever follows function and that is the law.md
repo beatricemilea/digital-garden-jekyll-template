@@ -1,0 +1,4 @@
+---
+---
+
+The famous quote from Louis Sullivan expresses the architectural principle his works have embodied perfectly. The 'form follows function' principle is about the honesty of a building that changes its exterior and interior shape according to the activities conducted inside. Just like in geography, where hills, mountains, seas remain the same everywhere, Sullivan believes that buildings have to remain similar if their purpose is similar. Sullivan's ideas were revolutionary for the beginnings of a new [[Modernity is the difference between past and present|modernity ]], illustrating the beginnings of a complete break with tradition.

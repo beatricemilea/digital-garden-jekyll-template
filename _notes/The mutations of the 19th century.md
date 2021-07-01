@@ -1,0 +1,4 @@
+---
+---
+
+The 19th century was the period in which a great number of changes took place all around the world. These changes, called mutations, were of various types and included [[The Age of Machinery and Thomas Carlyle's criticism|The Industrial Revolution]], the huge demographic rise, a new way of social-political thinking as in [[Liberalism and the emphasis on the individual|liberalism]] vs [[Socialism and the emphasis on the collective|socialism]], the birth of the [[Liberal cities were the urban evil|liberal city]] and the architect profession crisis. All these mutations made [[Affordable housing vs privileged housing|accessible housing]] more demanded on the market. 

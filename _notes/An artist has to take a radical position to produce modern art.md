@@ -1,0 +1,4 @@
+---
+---
+
+The beginning of the 20th century was dominated by several avante-garde movemements. Theo van Doesburg, through the [[Manifesto of De Stijl, the balance between individual and universal|'De Stijl']] magazine, was trying to find a new style, different from all these diffuse movements that were prior to his approach. He noticed that all artists had to take very radical positions in order to produce truly modern art, because this was the only way to definitively break with tradition. Van Doesburg met people who strived for the fusion of art and architecture and through the 'De Stijl' magazine, he was able to find these people who also wanted a radical change in the artistic landscape of the time.

@@ -1,0 +1,4 @@
+---
+---
+
+The access in any kind of dwelling can be of two types: direct or mediated. The direct one is usually found in individual houses and it means that the house inhabitant can have a direct relationship with the street (i.e with the city). In this case, the access can be mediated through an exterior space, like a garden, that acts like a filter that separates the house from the street and offers it privacy and intimacy. On the other hand, the mediated access refers to collective housing usually, and the spaces through which inhabitans of a block of flats, for example, have to go in order to get to their own apartments. Those spaces (such as a block of flats hallway, the staircase or the elevator) are usually considered nobody's and none of the inhabitants feel any attachment or identification with them.

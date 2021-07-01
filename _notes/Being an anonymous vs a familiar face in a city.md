@@ -1,0 +1,4 @@
+---
+---
+
+While taking a walk in the city, one needs to find the perfect balance between being an anonymous face and being a familiar one for the ones around them. Therefore, a city must ensure that can be the case by offering their inhabitants multiple levels of privacy within a city. In the [[Community and the traits that define its lifestyle|immediate neighbourhood]], one can be familiar with the people around them, this creating a sense of community and of belonging. When outside the neighbourhood, it is ideal that one feels anonimous and can easily walk undisturbed while seeing a plethora of new faces.

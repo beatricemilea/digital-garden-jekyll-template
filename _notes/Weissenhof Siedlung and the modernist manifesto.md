@@ -1,0 +1,4 @@
+---
+---
+
+Weissenhof [[Siedlung, the German experimental district|Siedlung]] was a manifest German district in Stuttgart, aiming to illustrate the way [[Modernity. Modernisation. Modernism.|Modernists]] envisioned housing. Architects like Mies van der Rohe, Le Corbusier, Hans Scharoun, J.J.P. Oud and others had multiple designs as part of this Siedlung, that became almost like an exhibition for what Modernism brought new to the way people lived. This was organized by the [[Deutscher Werkbund and the new good design|Deutscher Werkbund]] and it had architects with [[The progressist ideological model|progressist]] affinities from all around the world participate. The Weissenhof Siedlung was the first big-scale movement from Europe that wanted to make the modernist housing more popular. 

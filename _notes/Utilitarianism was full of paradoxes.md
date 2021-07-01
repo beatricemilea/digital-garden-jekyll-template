@@ -1,0 +1,4 @@
+---
+---
+
+Utilitarianism was a set of ideas that were spread among the English citizens from the Victorian age, ideas that mostly employed the laissez-faire economic regime. The laissez-faire' was a doctrine that proposed that economic entities and actions should not be regulated by the government. This paradigm, though good in theory, seemed to enstrange people from morality and conscience, love and right, since this freedom that it offered made these values seem fictional. The idea that stands at the core of utilitarianism was the wish to offer the greatest happiness to the greatest number of people. That not only implied that happiness can be calculated, but also that it was easy to control the well-being of a mass of citizens.

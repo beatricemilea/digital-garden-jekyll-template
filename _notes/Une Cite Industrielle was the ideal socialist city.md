@@ -1,0 +1,6 @@
+---
+---
+
+Tony Garnier's proposal for The Cite Industrielle in 1917 embodied best the [[Socialism and the emphasis on the collective|socialist]] principles. It was a [[Utopian visions of towns|utopian vision]] of an isolated self-sustaining place in which zones were divided according to their functions (residential, industrial, agricultural, public; being the first such experiment that was later on adapted by Le Corbusier) and the most important buildings in the public zone were located higher on a hill, almost like in the Acropolis. The city lacked jails and hospitals, since Garnier did not believe them necessary in such a potentially well-functioning socialist city. It could clearly be categorized as a [[The progressist ideological model|progressist]] endeavor. Une Cite Industrielle proposed simplicity, standardization and little decoration for the individual living, whereas for the collective living he aimed for a balance between the public, private and semi-public space.
+
+Resource: _Cite Industrielle_ from Encyclopaedia Britannica

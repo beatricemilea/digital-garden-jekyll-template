@@ -1,0 +1,4 @@
+---
+---
+
+Social housing has not been a responsibility for architects for long, it only started when the [[Dwelling as a complex issue and its relation to the city|housing issue]] appeared in the 19th century. That is the moment when it started representing an problem for the political entities as well, the state representatives and architects taking on different approaches to solving it. The state started investing more in the construction of social houses, while architects themselves, although a little overwhelmed by the new challenges, tried to accommodate the workers and the poor as well by creating new architectural programmes. This problem was especially tackled with the rise of [[Modernity. Modernisation. Modernism.|Modernism]].

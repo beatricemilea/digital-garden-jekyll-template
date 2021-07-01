@@ -1,0 +1,4 @@
+---
+---
+
+[[Masonry and its constructive particularities|Masonry]] walls can be either structural and load-bearing, eihther non-structural, being thus used just as an infill in a frame made of a different material (usually reinforced concrete). The non-structural masonry walls (especially brick) can be used only for their aesthetic properties, since they give a sense of materiality and warmth to a space. Houses with a masonry structure are usually organized in rooms as cells (smaller than 25 mp), and are usually as symmetric as they can, ensuring a continuity of the walls on every level of the house, so they are perfectly on top of each other (thus enabling the loads to go directly to the foundation without interruption).

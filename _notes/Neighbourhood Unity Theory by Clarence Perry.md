@@ -1,0 +1,4 @@
+---
+---
+
+Clarence Perry was an American urban planner, sociologist and author that created the idea of district as a unity of urban cohesion (neighbourhood unit). The empirical observation of urbanistic operations, together with some social operations conducted at the beginning of the 20th century, aimed to set a standard of habitation in order to practically make use of it. This unity was thought starting from the pedestrian, in order to help them avoid the pollution from the automobiles and it contains an area with a radius of 5 walking minutes, covering around 2000-4000 houses, a commercial centre, a kindergarten and an elementary school, a communitary centre, a church and a pub. This model can be catgeorized as part of the [[The progressist ideological model|progressist ideological model]].

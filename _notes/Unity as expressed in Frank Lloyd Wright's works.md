@@ -1,0 +1,6 @@
+---
+---
+
+Unity was one of the well-defined principles that stood at the core of Frank Lloyd Wright's works, and it was translated to the use of a mono material (as in not combining more materials unless they are specific to the building site), the unity with nature and the integration with the [[Removing the houses, improving the landscape|landscape]], incorporating the plumbing, lighting and heating into the design and the integration of fixtures and furniture within the architecural spaces. Wright believed this defined the organic architecture, inspired from the [[Art Nouveau, the artistic style inspired by nature|nature]]. However, his response to it was different than the one given by Art Nouveau, in the sense that he wanted to 'eliminate the decorator', considering all these ornaments as unnecessary organic curves and effloresence. All of his spaces were to have very humane proportions, so that this organic character of the spaces was very well-preserved. Last but not least, his architecture was inspired from the exotic atmosphere of traditional [[Japanese inspiration in modern movements of the early 20th century|Japanese]] interiors.
+
+Resource: _Modern Architecture since 1900_ by William J.R. Curtis

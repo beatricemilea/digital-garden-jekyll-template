@@ -1,0 +1,4 @@
+---
+---
+
+The first real-life application of the [[Ebenezer Howard's Garden City Movement|garden-city]] was the Letchworth Garden City, an economical success designed by Raymond Unwin and Barry Parker. These two urban planners wanted to implement Howard's ideas into real-life cities, aiming to prevent the complete separation betweeen different social categories and to inoculate the artistic spirit in their work. Another successful garden-city was Hampstead Garden Suburb, this being connected to the [[London, the Metropolis of the empire|the metropolis]] through an underground line, this one being the most formally-aesthetically successful project that Raymond and Parker did. 

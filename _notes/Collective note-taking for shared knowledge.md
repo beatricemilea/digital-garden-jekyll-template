@@ -1,0 +1,4 @@
+---
+---
+
+Collective note-taking is a note-taking technique that implies multiple people being exposed to the same educational content in order for them to write down interesting ideas further developed and shared in a common folder. This can be applied in the structure of a course as well, as students may be encouraged to take insightful notes that would not only help _them_ in the study process, but also their peers. They might also be examined from the content of the collective notes. Furthermore, their incentive to write good notes may also be stimulated by grading the quality of the notes that reflect how much they understood from that educational content, as well as their capacity to relate it to prior knowledge on the presented topic.

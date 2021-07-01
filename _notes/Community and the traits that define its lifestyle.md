@@ -1,0 +1,4 @@
+---
+---
+
+Living in a community is a way in which multiple families and people get attached to their dwellings and go through the complex sense of [[Habitation as a human sense|habitation]], together. They define a place and collectively identify with it, enriching it with multiple layers of experiences, meaning and memories. The common traits the community give to a certain place define it as a distinct part of the city called immediate neighbourhood, in which relationships form between the neighbours and the sense of being part of a community is born. It is a very diffuse concept since multiple people have various visions about their own community, thus it cannot be defined after a rigid set of rules.

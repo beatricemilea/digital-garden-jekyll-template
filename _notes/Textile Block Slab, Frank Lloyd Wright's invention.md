@@ -1,0 +1,4 @@
+---
+---
+
+The Textile Block Slab is a special kind of [[Concrete blocks and their advantages|concrete block]] used intensively by [[Frank Lloyd Wright's unique vocabulary|Frank Lloyd Wright]] and it is based on the possibility to imprint the concrete in order to give it more of an aesthetic exterior look. Wright's TBS were square in shape and had a very small thickness, only 9 cm. The particular aesthetics of TBS were the various colours, granulations, decorative prints it could take. The constructive method of walls using TBS was placing these concrete blocks on the outside of both the interior and exterior walls and pouring a reinforced concrete infill in the middle.

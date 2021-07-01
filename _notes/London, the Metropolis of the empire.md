@@ -1,0 +1,4 @@
+---
+---
+
+Due to an extensive population growth in the 19th century, London became a crowded city, a so-called [[Liberal cities were the urban evil|liberal city]], with lack of sanitation for its inhabitants and with a significant increasing need for [[Affordable housing vs privileged housing|affordable housing]]. Joseph Bazalgette was an engineer that tried to solve London's issues by developing installations that diverted sewage outside the city, building pumps and bridges as well. The outlook of London in that period was that the poor were living in the crammed center of the city, while the upper classes lived at the stretching outskirts.

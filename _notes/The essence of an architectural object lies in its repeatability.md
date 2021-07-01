@@ -1,0 +1,4 @@
+---
+---
+
+A good architectural object is the one that can be reproduced multiple times, and the essence of it is the fact that it is repeatable. This repeatability, however, doesn't mean that the architectural object shouldn't be adapted to its context, as it has to be flexible, but in the case of [[Affordable housing vs privileged housing|affordable housing]], it is necessary to have the units repeated, since the have to express unity and equality. Privileged houses have the value of a monument, therefore they have to be unique, as opossed to social housing that has to adapt a great number of people from the same social class, with similar needs. The fact that the object is repeatable makes it easier to categorize into a [[Type vs typology|typology]].

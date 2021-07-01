@@ -1,0 +1,4 @@
+---
+---
+
+The German Siedlungs were small districts or neighbourhoods where architects could apply their visions and experiment with their work. Siedlung is the generic name for housing districts located outside the city. Some of them were pitoresque, some were more domestic in character, just like the [[Ebenezer Howard's Garden City Movement|garden-cities]], embodying [[The culturalist ideological model|culturalism]]. Some other Siedlungs proposed collective housing and experimented the [[The progressist ideological model|progressism]] more, such as Ernst May's Frankfurt, or manifest-districts, such as Weissenhof-Siedlung, iconic for its modernist proposals. 

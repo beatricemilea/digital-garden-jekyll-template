@@ -1,0 +1,4 @@
+---
+---
+
+Collective and [[Community and the traits that define its lifestyle|community]], though two seemingly related words, are in fact quite different in meaning. Not all collectives are communities. A collective is basically a group of people, not necessarily having a relationship to one another, being called a collective as opposed to individuals. A community, however, is a collective of people who have mutual interests or aspirations, that share something together and that have a relationship with one another. Another key difference between a collective and a community is the community spirit that is developed within a community, the people who are part of it wanting to be part of it, not just being assigned to a certain group, just like in the case of a collective.
