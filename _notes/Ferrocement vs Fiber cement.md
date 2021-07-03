@@ -1,0 +1,4 @@
+---
+---
+
+Ferrocement is a type of cement first invented by the Italian architect and engineer Pier Luigi Nervi at the beginning of the 20th century. It is a composite material made of concrete reinforced with a diffuse grid of metal fibres that acts like a lost formwork for concrete and it enables architects to design very [[Felix Candela and the concrete shells|thin concrete skins]], as working with this material does not require the use of formworks. Fibre cement is a composite material made of cement reinforced with cellulose fibres. When it was first invented, it was made using azbest fibres, which later proved to be cancerous, therefore a safer alternative, cellulose, started being used. 

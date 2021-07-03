@@ -16,6 +16,14 @@ layout: default
       {{ content }}
     </content>
 
+    {% if page.resource.size > 0 %}
+      <h3 style="margin-bottom: 1em">Resource</h3>
+      <ul>
+        <li><a href="{{ page.resource }}">{{ page.resource }}</a></li>
+      </ul>
+      {% endif %}
+    </content>
+
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
@@ -41,6 +49,5 @@ layout: default
 
 <hr>
 
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
 
-{% include notes_graph.html %}
+

@@ -3,4 +3,4 @@
 
 What if a house was not just a place you could live in? At the beginning of the 20th century, [[Raumplan and the fluidity of the space|Adolf Loos]] was one of the first architects to use the principle of the Raumplan in order to create fluid, interconnected spaces. The same principle of fluidity and interconnectivity was applied to note-taking, first by Conrad Gessner, known as 'Zettelkasten'. If you use the interconnected notes in order to learn better, what if you also used the interconnected rooms as a possible tool to learn better as well? Through learning techniques such as The Mind Palace, you can use your own home with a fluid space organization in order to place the learning environments in specific places and move freely between them as needed. Although the spaces in your home are limited, they can still be very versatile and in a continuous process of transformation and evolution.
 
-Resource: https://ro.pinterest.com/pin/137430226106857864/
+Resource: [https://ro.pinterest.com/pin/137430226106857864/](https://ro.pinterest.com/pin/137430226106857864/)

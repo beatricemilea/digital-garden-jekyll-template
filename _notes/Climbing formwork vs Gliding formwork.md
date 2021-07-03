@@ -1,0 +1,4 @@
+---
+---
+
+The formwork is the matrix in which [[Reinforced concrete, the artificial stone|concrete]] is poured during construction. Some intelligent new building innovations gave birth to climbing formwork, which is an easy way to build the levels of a building in layers. using the same formwork at all the different heights. This is usually used for very tall buildings. Gliding formwork is the formwork that glides horizontally, in order to ease the pouring of concrete on long distances. These formworks have to be moved only after the concrete inside has dried. It takes around 28 days for concrete to dry. 
