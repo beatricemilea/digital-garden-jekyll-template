@@ -1,4 +1,0 @@
----
----
-
-One [[The progressist ideological model|progressist]] ideal that was adopted at the beginning of the 20th century was the minimum standard of living. Inspired by the minimal, yet sufficient space that a car has for adapting the needs of the driver, Le Corbusier traced the guidelines of what a rational apartment meant and what the minimum standard of living had to be. He strived for meeting the needs of the clients while also making the housing unit hygienic and civilized. This was one search direction in the sense of [[Affordable housing vs privileged housing|affordable living]], that supported splitting the interior spaces into two different kinds of spaces based on when they were used, thus resulting two kinds of spaces: diurnal and nocturnal. These spaces had each one separate distribution and circulation, rarely intertwining. 
