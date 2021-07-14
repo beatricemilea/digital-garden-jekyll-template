@@ -1,1 +1,4 @@
+---
+---
+
 Le Corbusier, in the period following the Second World War, aimed to trace the formal model of a new city that would be inhabited, in his vision, by 3 million inhabitants. This was the new 'Park-City', in which all houses would be built after the model of Pavilion L'Esprit Nouveau. This park-city was called "Ville Radieuse", and consisted of multiple housing units displaced in a vegetation mass (a park), thus creating vertical districts, isolated housing units that all benefited equally from sunshine, fresh air and vegetation, this way tracing the outlines of a new city, [[The Functionalist City]].

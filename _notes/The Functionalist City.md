@@ -1,1 +1,4 @@
+---
+---
+
 The Functionalist City, as opposed to [[The Traditional City]], is a [[Modernity. Modernisation. Modernism.|modernist]] vision of a city in which all of its primary functions (living, leisure, working and circulation) were segregated in specific parts of the city, these parts being accessible to each other by using the automobile. This meant that the urban space exploded, each function gaining its independence and separate individuality, thus having its very own logic. The housing unit became a form and a monument located in a mass of vegetation, the districts rising vertically and being freely composed.
