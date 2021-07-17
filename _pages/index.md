@@ -16,7 +16,7 @@ permalink: /
 <ul>
   {% for note in site.notes %}
     <li>
-      <a href="/digitalgarden{{ note.url }}" class="internal-link">{{ note.title }}</a>
+      <a href="{{ note.url }}" class="internal-link">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
