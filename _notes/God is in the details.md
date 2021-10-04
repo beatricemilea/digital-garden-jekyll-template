@@ -1,0 +1,1 @@
+Mies van der Rohe once said that God is in the details. That meant that the details are the ones that can truly make a difference between good and bad architecture. The details are the ones that tell if a building has been well-made or not, even after years from its building.
