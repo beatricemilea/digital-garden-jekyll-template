@@ -1,0 +1,1 @@
+The concept of parceling refers to the division process of an urban area into a minimum number of four adjacent plots in order for them to be buildable. 
