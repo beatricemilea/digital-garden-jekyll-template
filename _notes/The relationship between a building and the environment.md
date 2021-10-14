@@ -1,0 +1,1 @@
+A building has a strong relationship with the [[Removing the houses, improving the landscape|built and natural environment]]. Therefore, it has to take into consideration factors such as the thermal energy, humidity, energy and light radiation and sound and acoustic energy. 
