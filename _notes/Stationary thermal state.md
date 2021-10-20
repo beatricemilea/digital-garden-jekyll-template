@@ -1,0 +1,1 @@
+The stationary thermal state is the conventional hypothesis of thermo-technical calculation that the temperature does not vary in time. The average temperature of interior [[Thermal comfort and the perception of the space|comfort]] varies from room to room and from season to season, also differing due to geographical positioning. 
